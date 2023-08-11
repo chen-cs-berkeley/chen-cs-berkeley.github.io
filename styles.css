@@ -6,3 +6,7 @@ p { color: red; }
     background-repeat: no-repeat;
     background-attachment: fixed; /* Optional, to fix the background image */
 }
+
+.text-center {
+    text-align: center;
+}
