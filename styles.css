@@ -1,5 +1,9 @@
 p { color: red; }
-
+p1 { color:aliceblue; }
+p2 {color:aquamarine}
+.green-text {
+    color: green;
+}
 .background-image {
     background-image: url('images/IMG_6345.jpeg');
     background-size: cover;
